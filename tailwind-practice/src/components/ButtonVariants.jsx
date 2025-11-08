@@ -18,9 +18,9 @@ function ButtonVariants() {
             </div>
             {/* second row of other buttons */}
             <div className="flex justify-cent3er gap-4">
-                <button className="bg-green-600 text-white px-4 py-2 rounded-md hover:bg-green-700" >success </button>"
-                <button className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600" >secondary </button>"
-                <button className="bg-yellow-400 text-black px-4 py-2 rounded-md hover:bg-yellow-500" >warning </button>"
+                <button className="bg-green-600 text-white px-4 py-2 rounded-md hover:bg-green-700" >success </button>
+                <button className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600" >secondary </button>
+                <button className="bg-yellow-400 text-black px-4 py-2 rounded-md hover:bg-yellow-500" >warning </button>
             </div>
         </div>
     );
