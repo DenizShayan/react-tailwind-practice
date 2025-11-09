@@ -27,7 +27,7 @@ function ButtonVariants() {
             <div className="flex justify-center gap-4">
                 <button disabled className="bg-gray-500 text-white px-4 py-2 rounded-md opacity-70 cursor-not-allowed">Disabled</button>
                 <button className="bg-blue-600 text-white px-4 py-2 flex items-center rounded-md gap-2">
-                    <span className="animation-spin border-2 border-white border-t-transparent rounded-full w-4 h-4"></span>
+                    <span className="animate-spin border-2 border-white border-t-transparent rounded-full w-4 h-4"></span>
                     Loading...
                 </button>
             </div>
