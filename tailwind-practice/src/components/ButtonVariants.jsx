@@ -6,7 +6,7 @@ function ButtonVariants() {
 
             {/* first row of main buttons */}
             <div className="flex gap-4 justify-center ">
-                <button className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700">
+                <button className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transion-all duration-300 shadow-md">
                     primary
                 </button>
                 <button className="border border-blue-600 text-blue-600 hover:bg-blue-50 px-4 py-2 rounded-md">
